@@ -1,1 +1,1 @@
-# looplab-social-theme
+[Looplab Social Theme](https://plyavinskiy.github.io/looplab-social-theme/)
